@@ -4,4 +4,6 @@ These are my homework assignments for [Lede 2024](https://ledeprogram.com), a 10
 
 ## Assignments
 
-* [Assignment 06](06-homework-notebooks/) - basic pandas analyses with Jupyter Notebook (includes several notebooks)
+* **Assignment 06** - intro to pandas analyses with Jupyter Notebook
+    * [Animals notebook](01-animals.ipynb) - basic data analyses on small dataset
+    * [Billionaires notebook](02-billionaires.ipynb) - basic data analyses on bigger dataset
