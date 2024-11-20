@@ -1,6 +1,6 @@
 # Homework for Lede 2024
 
-These are my homework assignments for [Lede 2024](https://ledeprogram.com), a 10-week intensive program on coding, data analysis, and visual storytelling.
+These are some of my homework assignments for [Lede 2024](https://ledeprogram.com), a 10-week intensive program on coding, data analysis, and visual storytelling.
 
 ## Assignments
 
